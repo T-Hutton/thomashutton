@@ -13,7 +13,7 @@ Environmental Science BSc - University of Southampton (2020 - 2023):	First Class
 
 - Computing for Mathematics: Geometreg, a python library for investigating lattice geometry and combinatorial geometry.
 
-- First place in the Year One integration bee.
+- First place in the Cardiff University Year One integration bee.
 
 ```
 
@@ -32,14 +32,14 @@ Environmental Science BSc - University of Southampton (2020 - 2023):	First Class
 - Statistical Inference: 	  		99%
 ```
 ### Second Year
-*Awaiting Marks*
+*91.0% Weighted Average Mark*
 ```
 First Semester:
-- Linear Algebra II:				Went well
-- Calculus of Severable Variables:		Went very badly
-- Algebra I: Groups				Went great
-- Numerical Analysis:				Went decently
-- Foundations of Probability & Statistics:	Went poorly
+- Linear Algebra II:				95%
+- Calculus of Severable Variables:		84%
+- Algebra I: Groups				99%
+- Numerical Analysis:				92%
+- Foundations of Probability & Statistics:	86%
 
 ```
 

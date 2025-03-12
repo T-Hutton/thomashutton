@@ -9,7 +9,7 @@ Environmental Science BSc - University of Southampton (2020 - 2023):	First Class
 
 # Relevant Projects/Achievements:
 ```
-- Evolutionary Game Theoretic Emergent Behaviour in Stochastic Queuing Systems: A working paper with Vincent Knight and Geraint Palmer. Presenting at Tomorrows Mathematician Today 2025.
+- Evolutionary Game Theoretic Emergent Behaviour in Stochastic Queuing Systems: A working paper with Professor Vincent Knight and Dr Geraint Palmer. Presenting at Tomorrows Mathematician Today 2025.
 
 - Computing for Mathematics: Geometreg, a python library for investigating lattice geometry and combinatorial geometry.
 
@@ -52,6 +52,30 @@ Second Semester:
 - Series & Transform
 - Vector Calculus
 ```
+
+### Third Year
+*Currently Deciding on Undertaking Between:*
+```
+First Semester:
+Algebra II: Rings
+Partial Differential Equations
+Measure Theory
+Knot Theory
+Optimisation
+
+Second Semester:
+Introduction to Functional and Fourier Analysis
+Algebraic Topology
+Introduction to Number Theory II
+Ordinary Differential Equations
+Algebra III: Fields
+Algorithms and Heuristics
+
+Dual Semester:
+Project Module
+
+```
+
 
 #### Extra Curriculars:
 ```

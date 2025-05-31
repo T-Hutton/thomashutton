@@ -9,6 +9,8 @@ Environmental Science BSc - University of Southampton (2020 - 2023):	First Class
 
 # Relevant Projects/Achievements:
 ```
+- Quantumn Physics from Combinatorics: Cardiff University On-Campus Research Internship
+
 - Evolutionary Game Theoretic Emergent Behaviour in Stochastic Queuing Systems: A working paper with Professor Vincent Knight and Dr Geraint Palmer. Presenting at Tomorrows Mathematician Today 2025.
 
 - Computing for Mathematics: Geometreg, a python library for investigating lattice geometry and combinatorial geometry.
@@ -37,20 +39,20 @@ Environmental Science BSc - University of Southampton (2020 - 2023):	First Class
 First Semester:
 - Linear Algebra II:				95%
 - Calculus of Severable Variables:		84%
-- Algebra I: Groups				99%
+- Algebra I: Groups:			 99%
 - Numerical Analysis:				92%
 - Foundations of Probability & Statistics:	86%
 
 ```
 
-*Currently Undertaking*
+*Currently Awaiting Results*
 ```
 Second Semester:
-- Real Analysis
-- Complex Analysis
-- Introduction to Number Theory I
-- Series & Transform
-- Vector Calculus
+- Real Analysis:        Went well enough
+- Complex Analysis:      Went well enough
+- Introduction to Number Theory I:  Went okay-ish
+- Series & Transform:    Went very meh
+- Vector Calculus:    Went poorly
 ```
 
 ### Third Year

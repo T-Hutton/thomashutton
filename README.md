@@ -39,7 +39,7 @@ Environmental Science BSc - University of Southampton (2020 - 2023):	First Class
 First Semester:
 - Linear Algebra II:				95%
 - Calculus of Severable Variables:		84%
-- Algebra I: Groups:			 99%
+- Algebra I: Groups:			    99%
 - Numerical Analysis:				92%
 - Foundations of Probability & Statistics:	86%
 
@@ -48,11 +48,11 @@ First Semester:
 *Currently Awaiting Results*
 ```
 Second Semester:
-- Real Analysis:        Went well enough
-- Complex Analysis:      Went well enough
+- Real Analysis:            Went well enough
+- Complex Analysis:        Went well enough
 - Introduction to Number Theory I:  Went okay-ish
-- Series & Transform:    Went very meh
-- Vector Calculus:    Went poorly
+- Series & Transform:      Went very meh
+- Vector Calculus:      Went poorly
 ```
 
 ### Third Year

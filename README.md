@@ -42,8 +42,8 @@ First Semester:
 - Foundations of Probability & Statistics:	86%
 - Real Analysis:                                98%
 - Complex Analysis:                             100%
-- Introduction to Number Theory I:               88%
-- Series & Transform:                            94%
+- Introduction to Number Theory I:              88%
+- Series & Transform:                           94%
 - Vector Calculus:                              87%
 ```
 

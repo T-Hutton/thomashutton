@@ -34,7 +34,7 @@ Environmental Science BSc - University of Southampton (2020 - 2023):	First Class
 - Statistical Inference: 	  		99%
 ```
 ### Second Year
-*91.0% Weighted Average Mark*
+*92.0% Weighted Average Mark*
 ```
 First Semester:
 - Linear Algebra II:				95%
@@ -42,12 +42,6 @@ First Semester:
 - Algebra I: Groups:			        99%
 - Numerical Analysis:				92%
 - Foundations of Probability & Statistics:	86%
-
-```
-
-*Currently Awaiting Results*
-```
-Second Semester:
 - Real Analysis:                                98%
 - Complex Analysis:                              100%
 - Introduction to Number Theory I:             88%
@@ -56,14 +50,14 @@ Second Semester:
 ```
 
 ### Third Year
-*Currently Deciding on Undertaking Between:*
+*Currently Deciding to Undertake:*
 ```
 First Semester:
 Algebra II: Rings
 Partial Differential Equations
 Measure Theory
 Knot Theory
-Optimisation
+Project Module
 
 Second Semester:
 Introduction to Functional and Fourier Analysis
@@ -71,11 +65,6 @@ Algebraic Topology
 Introduction to Number Theory II
 Ordinary Differential Equations
 Algebra III: Fields
-Algorithms and Heuristics
-
-Dual Semester:
-Project Module
-
 ```
 
 

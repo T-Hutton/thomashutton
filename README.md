@@ -48,11 +48,11 @@ First Semester:
 *Currently Awaiting Results*
 ```
 Second Semester:
-- Real Analysis:                                Went well enough
-- Complex Analysis:                              Went well enough
-- Introduction to Number Theory I:             Went okay-ish
-- Series & Transform:                            Went very meh
-- Vector Calculus:                              Went poorly
+- Real Analysis:                                98%
+- Complex Analysis:                              100%
+- Introduction to Number Theory I:             88%
+- Series & Transform:                            94%
+- Vector Calculus:                              87%
 ```
 
 ### Third Year

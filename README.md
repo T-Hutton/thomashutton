@@ -3,15 +3,13 @@ Current student at Cardiff University studying a second undergaduate degree in m
 # Education:
 ```
 Mathematics BSc - Cardiff University	(2023 - 2026)
-Environmental Science BSc - University of Southampton (2020 - 2023):	First Class
-
 ```
 
 # Relevant Projects/Achievements:
 ```
 - Quantumn Physics from Combinatorics: Cardiff University On-Campus Research Internship
 
-- Evolutionary Game Theoretic Emergent Behaviour in Stochastic Queuing Systems: A working paper with Professor Vincent Knight and Dr Geraint Palmer. Presenting at Tomorrows Mathematician Today 2025.
+- Evolutionary Game Theoretic Emergent Behaviour in Stochastic Queuing Systems: A working paper with Professor Vincent Knight and Dr Geraint Palmer. Presented at Tomorrows Mathematician Today 2025.
 
 - Computing for Mathematics: Geometreg, a python library for investigating lattice geometry and combinatorial geometry.
 
